@@ -1,0 +1,10 @@
+__pycache__/
+resources/
+resources_core.tar.gz
+
+selene/
+
+models/
+
+env_before_*.txt
+
