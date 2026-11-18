@@ -8,3 +8,8 @@ models/
 
 env_before_*.txt
 
+pilot_out*/
+selftest_*/
+maps/
+*.npy
+*.npz
